@@ -7,5 +7,5 @@ void draw () {
   } else{
     fill(225);
   }
-  triangle(mouseX, mouseY, 50, 50, 50, 50);
+  allipse(mouseX, mouseY, 50, 50, 50, 50);
 }
